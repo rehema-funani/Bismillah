@@ -1,0 +1,19 @@
+#container{
+border:1px solid;
+padding:12px;
+margin:0 auto;
+width:30%;
+}
+#container2{
+    border:1px solid;
+    padding:12px;
+    margin:0 auto;
+    width:30%;
+    
+
+}
+#table,th,td{
+    border-collapse:collapse;
+    border:solid 2px;
+
+}
